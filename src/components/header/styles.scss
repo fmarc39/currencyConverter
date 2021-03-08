@@ -1,0 +1,15 @@
+.header {
+
+  background-color: #BC5435;
+  padding: 2rem 1rem;
+  &__title {
+
+    color: white;
+    font-size: 2em;
+    margin-bottom: 1rem;
+  }
+
+  &__p {
+      color: white;
+  }
+}
